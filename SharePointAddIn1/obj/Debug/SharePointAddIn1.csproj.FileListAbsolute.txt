@@ -1,0 +1,5 @@
+C:\Users\Administrator\source\repos\SharePointAddIn1\SharePointAddIn1\bin\Debug\SharePointAddIn1.pdb
+C:\Users\Administrator\source\repos\SharePointAddIn1\SharePointAddIn1\obj\Debug\SharePointAddIn1.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\SharePointAddIn1\SharePointAddIn1\obj\Debug\SharePointAddIn1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SharePointAddIn1\SharePointAddIn1\obj\Debug\SharePointAddIn1.dll
+C:\Users\Administrator\source\repos\SharePointAddIn1\SharePointAddIn1\obj\Debug\SharePointAddIn1.pdb
